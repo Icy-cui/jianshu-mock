@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "data": {
+        "id": 1,
+        "title": "坚持写作一年，自己得到了什么",
+        "content": "<p>Hola，我是 yes。 今年来看了 RocketMQ、Kafka、Dubbo、Tomcat的源码，之前也有读者询问过如何读源码，索性就来分享一下。其实还看了一点点Linux、Redis、jdk8，这几个阅读的目的和上面几个是不同的，下面会提到。</p><img src='https://upload-images.jianshu.io/upload_images/16034279-e0f04cebf64d4477.png?imageMogr2/auto-orient/strip|imageView2/2/w/267/format/webp' alt='/' />"
+    }
+}
